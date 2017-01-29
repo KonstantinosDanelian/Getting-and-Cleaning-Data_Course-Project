@@ -10,7 +10,7 @@
 Created a file in R named run_analysis.R that did all the 5 steps asked:
 
 1) Merging the training and the test sets to create one data set.
-2) Reading files/
+2) Reading files
 3) Merging all data in one set
 4) Extracting only the measurements on the mean and standard deviation for each measurement
 5) Using descriptive activity names to name the activities in the data set
