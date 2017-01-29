@@ -7,7 +7,7 @@
 
 # run_analysis.R
 
-Created a file in R named run_analysis.R that did all the 5 steps asked:
+Created a file in R named run_analysis.R that contains all the 5 steps asked:
 
 1) Merging the training and the test sets to create one data set.
 2) Reading files
