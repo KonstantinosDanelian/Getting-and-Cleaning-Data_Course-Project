@@ -1,6 +1,6 @@
 # Getting and Cleaning Data / Course Project
 
-## scripts
+## Scripts
 
 run_analysis.R contains all the code in order to complete all 5 steps
 
