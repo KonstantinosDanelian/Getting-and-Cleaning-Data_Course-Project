@@ -8,7 +8,7 @@ and the exact data for this project can be found in https://d396qusza40orc.cloud
 # Variables Used :
 
 x_train, y_train, x_test, y_test, subject_test, subject_train that contain data from the tables downloaded.
-mrg_test, mrg_train, setAllInOne merged data.
+mrg_test, mrg_train, setAllInOne are the merged data.
 
 # Applied names in activity labels are :
 
