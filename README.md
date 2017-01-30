@@ -12,6 +12,6 @@ The R script called run_analysis.R includes the following steps :
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+run_analysis.R contains all the code to perform the analyses described in the 5 steps above.
 
-The output of the 5th step is called secTidySet.txt and with the average of each variable for each activity and each subject.
+The output of the 5th step is called secTidySet.txt with the average of each variable for each activity and each subject.
